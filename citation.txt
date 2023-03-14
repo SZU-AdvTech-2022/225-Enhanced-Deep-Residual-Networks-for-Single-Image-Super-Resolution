@@ -1,0 +1,7 @@
+@inproceedings{REPO-226,
+    author = "Lim, Bee and Son, Sanghyun and Kim, Heewon and Nah, Seungjun and Mu Lee, Kyoung",
+    booktitle = "Proceedings of the IEEE conference on computer vision and pattern recognition workshops",
+    pages = "136--144",
+    title = "{Enhanced Deep Residual Networks for Single Image Super-Resolution}",
+    year = "2017"
+}
